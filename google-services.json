@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53343833973",
+    "firebase_url": "https://applanner-f83b9.firebaseio.com",
+    "project_id": "applanner-f83b9",
+    "storage_bucket": "applanner-f83b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53343833973:android:68f597bcc348a13f",
+        "android_client_info": {
+          "package_name": "br.com.applaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53343833973-r03mn724h2gn7fua7rm6hat2l41pgsle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6mykqoCTP8UQuV5NeNUrjo3UKv45FhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
